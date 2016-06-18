@@ -1,5 +1,5 @@
 # Zsh-lose
-Zsh plugin to reboot into Windows from Linux
+Zsh plugin to reboot into Windows from Linux, reminiscent of starting Windows from DOS
 
 ## Usage
 Run `lose` to reboot the system into Windows
