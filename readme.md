@@ -5,4 +5,4 @@ Zsh plugin to reboot into Windows from Linux
 Add `rummik/zsh-lose` to your antigen bundles
 
 ## Usage
-Typing `lose` will reboot the system to windows
+Run `lose` to reboot the system into Windows
